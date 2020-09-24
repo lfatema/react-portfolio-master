@@ -61,7 +61,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "15%"
+        "level": "10%"
       },
       {
         "name": "CSS",
@@ -73,7 +73,7 @@
       },
       {
         "name": "JavaScript",
-        "level": "55%"
+        "level": "40%"
       },
       {
         "name": "HTML5",
@@ -88,10 +88,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Guess the Number Game",
+        "category": "Vanilla JavaScript along with HTML and CSS",
+        "image": "Guess_the_number.jpeg",
+        "url": "https://reverent-bhabha-56c6a1.netlify.app/"
       },
       {
         "title": "MERN Stack TikTok Clone",
